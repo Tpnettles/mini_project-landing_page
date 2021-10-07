@@ -1,0 +1,27 @@
+body{
+    margin: 0;
+}
+
+
+.image_1{
+    width: 800px;
+    height: 300px;
+    display: none;
+}
+
+.limegreen{
+background-color: limegreen;
+}
+
+.blue{
+background-color: royalblue;
+}
+
+.bgc_silver{
+background-color: silver;
+}
+
+.footer{
+    background-color: limegreen;
+}
+
